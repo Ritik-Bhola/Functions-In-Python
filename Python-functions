@@ -1,0 +1,9 @@
+1. swapcase()- The string swapcase() method converts all uppercase characters to lowercase and vice versa of the given string,
+and returns it.
+2. map() - Python's map() is a built-in function that allows you to process and transform all the items in an iterable without 
+using an explicit for loop, a technique commonly known as mapping. map() is useful when you need to apply a transformation
+function to each item in an iterable and transform them into a new iterable.
+3. split() - The split() method in Python returns a list of the words in the string/line , separated by the delimiter string. 
+This method will return one or more new strings. All substrings are returned in the list datatype.
+4. strip() - Python String strip() Method  Remove spaces at the beginning and at the end of the string.
+5. hash() - The hash() method returns the hash value of an object if it has one.
